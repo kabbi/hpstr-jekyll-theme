@@ -1,41 +1,35 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            Some Site With Screenshots
+description:      Just an ordinary developer blog-like thing.
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
+# url:              //kabbi.github.io
 url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Zubr Kabbi
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
+  bio:            "Just a little programmer from Belarus learning stuff."
+  email:          userdima@gmail.com
+
   twitter:        
   facebook:       
-  github:         
+  github:         kabbi
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+
+  # google_plus:    +yourid
 
 # Background image to be tiled on all pages
 background: 
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Minsk
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -47,6 +41,8 @@ sass:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+
+excerpt_separator: <!-- more -->
 
 # Amount of post to show on home page
 paginate: 5

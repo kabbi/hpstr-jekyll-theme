@@ -47,3 +47,6 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
+
+// Particles.js startup
+particlesJS.load('particles-js', 'assets/particles.json');

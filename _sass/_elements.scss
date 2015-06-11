@@ -18,6 +18,11 @@ figure {
   img {
     margin-bottom: 10px;
   }
+  img.screenshot {
+    object-fit: cover;
+    max-width: 110%;
+    margin: -5%;
+  }
   a { 
     img {
       @include translate(0, 0);
