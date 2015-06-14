@@ -1,0 +1,15 @@
+- title: Zanzarah - the Hidden Portal
+  tag: zanzarah
+  description: >
+    A project to decompile the game executable and to reverse-engineer the format of all
+    game files of a wonderful game: <strong>Zanzarah - the hidden portal</strong>.
+    The plan is to create the full-featured scene editor and all the converters for game files.
+    All the sources and tools written in <code>coffee</code>.
+
+- title: Oled emulator
+  tag: oled
+  description: >
+    An experiment to create a usable and good-looking emulator of electronic device with oled
+    screen and some controls. Written in <code>html5</code> canvas, in <code>coffee</code> and
+    <code>nwjs</code>, using <code>angular</code> for data binding and <code>processing.js</code>
+    for visual style and drawing stuff.
