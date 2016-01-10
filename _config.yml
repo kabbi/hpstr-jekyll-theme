@@ -11,22 +11,23 @@ url:              //kabbi.github.io
 owner:
   name:           Zubr Kabbi
   avatar:         avatar.jpg
-  bio:            "Just a little programmer from Belarus learning stuff."
+  bio:            "Just a little developer from Belarus learning stuff."
   email:          userdima@gmail.com
 
-  twitter:        
-  facebook:       
+  twitter:
+  facebook:
   github:         kabbi
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
+  resume:         dmitry_kabak_resume.pdf
 
   # google_plus:    +yourid
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Minsk
