@@ -73,9 +73,7 @@ module.exports = function(grunt) {
   // Register tasks
   grunt.registerTask('default', [
     'clean',
-    'uglify',
-    'imagemin',
-    'svgmin'
+    'uglify'
   ]);
   grunt.registerTask('dev', [
     'watch'

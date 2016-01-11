@@ -42,11 +42,13 @@ $(document).ready(function() {
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
     removalDelay: 300, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open. 
+    // Class that is added to body when popup is open.
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
 });
 
 // Particles.js startup
-particlesJS.load('particles-js', 'assets/particles.json');
+// Not really elegant, I know. I just wanted a quick gallery blog,
+// not another full-time fullstack web developer job.
+// particlesJS.load('particles-js', 'assets/particles.json');
