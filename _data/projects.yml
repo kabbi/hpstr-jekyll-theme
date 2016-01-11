@@ -1,3 +1,13 @@
+- title: Nodepad
+  tag: nodepad
+  description: >
+    <a href="https://tonicdev.com/">Tonicdev</a> site clone as a desktop application,
+    giving you clean and cool interactive nodejs GUI repl, allowing you to rapidly
+    prototype applications, draw nice visualizations and see the data in realtime.
+    <code>Ipython</code>-inspired thing.<br/>
+    <code>webpack</code> + <code>react</code> + <code>electron</code> +
+    <code>bootstrap</code> + <code>v8-debugger</code>
+
 - title: Zanzarah - the Hidden Portal
   tag: zanzarah
   description: >
